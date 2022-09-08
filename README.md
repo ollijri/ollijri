@@ -8,6 +8,6 @@
 
 I am a third year 'Computer and Cyber Forensics' student at the University of Gloucestershire.
 
-I already have a background working as an infrastructure technician at Chosen Hill School in Gloucester. I have a huge passion for Cyber Security as evident by my previous attendance of CTF events with BAE Systems and Hub 8. In addition to this, I am the Project and Events Coordinator for the Ethical Hacking society at the University of Gloucestershire and have previously had the opportunity of being course representative in my brief time at the University of South Wales and ambassador for computer science at the Cotswold School.
+I have a background working as an infrastructure technician. I have a huge passion for Cyber Security as evident by my previous attendance of CTF events with BAE Systems and Hub 8. In addition to this, I am the Project and Events Coordinator for the Ethical Hacking society at the University of Gloucestershire and have previously had the opportunity of being course representative in my brief time at the University of South Wales and ambassador for computer science at the Cotswold School.
 
 </p>
