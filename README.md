@@ -10,6 +10,6 @@ I am a third year 'Computer and Cyber Forensics' student at the University of Gl
 
 I have a background working as an infrastructure technician. I have a huge passion for Cyber Security.
     
-I am the Project and Events Coordinator for the Ethical Hacking society at the University of Gloucestershire and have previously had the opportunity of being course representative in my brief time at the University of South Wales and ambassador for computer science at the Cotswold School.
+I am the Project and Events Coordinator for the Ethical Hacking society at the University of Gloucestershire and have previously had the opportunity of being course representative in my brief time at the University of South Wales.
 
 </p>
