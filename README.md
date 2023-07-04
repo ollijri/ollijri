@@ -6,7 +6,7 @@
   <a/>
   <img src="https://komarev.com/ghpvc/?username=ollijri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ollijri" /> 
 
-I am a third year 'Computer and Cyber Forensics' student at the University of Gloucestershire.
+I am a Computer and Cyber Forensics First Class Graduate from the University of Gloucestershire.
 
 I have a background working as an infrastructure technician. I have a huge passion for Cyber Security.
     
