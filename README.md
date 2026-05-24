@@ -6,7 +6,9 @@
   <a/>
   <img src="https://komarev.com/ghpvc/?username=ollijri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ollijri" /> 
 
-Cyber Incident Response Specialist
+SIEM Architect and Cyber Incident Responder
+
+Formerly Insider Threat analyst
 
 Computer and Cyber Forensics First Class Graduate from the University of Gloucestershire.
 
