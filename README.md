@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ollie</h1>
+<h1 align="center">I'm Ollie</h1>
 <br>
 <p align="center">
   <a href ="https://www.linkedin.com/in/ollijr/">
